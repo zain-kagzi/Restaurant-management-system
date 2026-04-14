@@ -40,3 +40,13 @@ git clone https://github.com/zain-kagzi/restaurant-management-system
 cd restaurant-management-system 
 npm install 
 npm start
+```
+
+
+---
+
+
+## 💡 What I Learned
+- Built full CRUD operations
+- Implemented REST APIs
+- Improved UI performance and responsiveness
