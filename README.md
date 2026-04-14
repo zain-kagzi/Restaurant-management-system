@@ -34,6 +34,8 @@ https://restauranters.infinityfree.me/
 
 
 ## ⚙️ Installation
+
+```bash
 git clone https://github.com/zain-kagzi/restaurant-management-system 
 cd restaurant-management-system 
 npm install 
