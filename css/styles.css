@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Playball&display=swap');
+
+.footer{
+    background-color: #ffa422;
+    color: white;
+    font-size: 1.3rem;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.footerb{
+    background-color: #f8f8f8;
+    color: black;
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 30rch;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.logo{
+    width: 70px;
+}
+
+.nav-item{
+    padding: 0px 30px;
+    font-size: 1.2rem;
+}
+.nav-link{
+    color: #fff !important;
+}
+
+a,.m-link:hover{
+    color: #ffa422;
+}
+
+a,.m-link{
+    text-decoration: none !important;
+    font-family: 'Gilda Display', serif;
+}
+
+.box{
+    padding: 20px;
+    padding-top: 80px;
+}
+
+#main{
+    position: relative;    
+}
+
+.navp{
+    position: absolute !important;
+    width: 100%;
+    background: none;
+    padding: 10px 30px !important;
+}
+.login{
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.users{
+    font-size: 1.2rem;
+}
+
+.row{
+    padding: 60px 0px;
+    margin:0 40px !important;
+}
+
+
+@media screen and (max-width:500px) {
+    .logo{
+        width:30px
+    }
+    
+}

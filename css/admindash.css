@@ -1,0 +1,63 @@
+body{
+    background-color: black !important;
+}
+
+.feedback{
+    margin: 0 auto;
+    width: 100%; /* Ensure a width is defined */
+    padding: 7rem 5rem 0;
+
+}
+.header{
+    color: #dddddd;
+}
+.content-table{
+    border-collapse: collapse;
+   
+     border-radius: 5px 5px 0 0;
+     overflow: hidden;
+     box-shadow:0 0  20px rgba(0,0,0,0.15);
+     width: 100%;   
+ }
+
+ .content-table thead tr{
+     background-color: orange;
+     color: white;
+     text-align: left;
+ }
+ 
+ .content-table th,
+ .content-table td{
+     padding: 12px 15px;
+ }
+ 
+ .content-table tbody tr{
+     border-bottom: 1px solid #dddddd;
+ }
+ .content-table tbody tr:last-of-type{
+     border-bottom: 2px solid orange;
+ }
+ 
+ .content-table thead .active-row{
+     color: orange;
+ }
+ .content-table tbody .active-row{
+     color: #dddddd;
+     background-color: black;
+ }
+
+ a{
+    text-decoration: none;
+    color: #dddddd !important;
+ }
+ .delete{
+    width: 100%;
+    white-space: nowrap;
+ }
+ .email_ord{
+    word-break: break-all;
+ }
+ .addbtn{
+    font-size: 1.2rem !important;
+    font-weight: 500 !important;
+ }
