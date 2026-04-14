@@ -14,13 +14,13 @@ A full-stack web application to manage restaurant operations like orders, menu, 
 - Database: MySQL
 
 📸 Screenshots
-(Add images here)
+
 
 🔗 Live Demo
-(Add deployed link here)
+https://restauranters.infinityfree.me/
 
 ⚙️ Installation
-git clone https://github.com/your-username/restaurant-management-system
+git clone https://github.com/zain-kagzi/restaurant-management-system
 cd restaurant-management-system
 npm install
 npm start
